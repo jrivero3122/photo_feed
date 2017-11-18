@@ -1,0 +1,38 @@
+body{
+	background: #eaeaea;
+	font-family: Helvetica;
+}
+header{
+	background: white;
+}
+h1{
+	font-size: 32px;
+	font-weight: bold;
+	padding: 20px 0 17px 0;
+}
+h2{
+	font-size: 18px;
+	font-weight: bold;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+p{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+#photocontainer{
+	background: white;
+	padding: 0;
+}
+#separator{
+	padding-top: 66px;
+}
+.img-fluid{
+	width: 100%;
+}
+#photonumber{
+	color: gray;
+	text-align: right;
+	padding-right: 20px;
+}
